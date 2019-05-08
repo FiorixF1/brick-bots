@@ -1,5 +1,5 @@
 # brick-bots
-This repository contains a flashable firmware for the [Elegoo Smart Car Robot Kit]{https://www.amazon.it/Elegoo-Ultrasuoni-Bluetooth-Intelligente-Educativo/dp/B078X7HLWN}.
+This repository contains a flashable firmware for the [Elegoo Smart Car Robot Kit](https://www.amazon.it/Elegoo-Ultrasuoni-Bluetooth-Intelligente-Educativo/dp/B078X7HLWN).
 
 This project has been created during BrickBots, a course to learn to program robots with Arduino. The goal of the course was creating a robot that could detect objects on a table and make them fall (without falling itself, obviously).
 
